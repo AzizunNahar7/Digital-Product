@@ -30,3 +30,36 @@
 .item:hover{
     color: blue;
 }
+
+/* banner section styles */
+.banner-img{
+    width: 300px;
+}
+
+.banner-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    height: 100vh;
+    background-image: url('/images/background.png'),
+    linear-gradient(45deg,rgb(8, 8, 8),rgb(60, 59, 59))
+}
+
+.title{
+    font-size: 55px;
+    font-weight: bold;
+}
+
+.banner-description{
+    font-size: 18px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.btn{
+    padding: 10px 20px;
+    background-color: red;
+    color: white;
+    border: none;
+}
