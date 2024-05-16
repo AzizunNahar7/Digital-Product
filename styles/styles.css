@@ -129,3 +129,34 @@
 .service-title{
     color: white;
 }
+
+/* footer section styless */
+footer{
+    background-color: black;
+}
+.footer-container{
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 100px;
+}
+
+.footer-logo{
+    margin-bottom: 8px;
+}
+
+.footer-title{
+    margin-bottom: 20px;
+}
+
+.footer-description{
+    font-size: 14px;
+}
+
+.hr{
+    margin:0 100px 30px;
+    padding: 20px;
+    display: block;
+    color: white;
+    text-align: center;
+}
