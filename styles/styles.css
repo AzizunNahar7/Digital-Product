@@ -63,3 +63,26 @@
     color: white;
     border: none;
 }
+
+/* About us section styles */
+.about-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row-reverse;
+    padding: 10px;
+}
+
+.about-title{
+    text-align: center;
+    padding: 20px;
+}
+
+.about-title-2{
+    margin-bottom: 10px;
+}
+
+.about-description{
+    margin-bottom: 10px;
+    
+}
