@@ -42,7 +42,7 @@
     align-items: center;
     color: white;
     height: 100vh;
-    background-image: url('/images/background.png'),
+    background-image: url('../images/background.png'),
     linear-gradient(45deg,rgb(8, 8, 8),rgb(60, 59, 59))
 }
 
